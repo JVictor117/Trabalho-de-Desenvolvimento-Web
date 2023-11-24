@@ -1,0 +1,167 @@
+header{
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+
+.logo1 img{
+    width: 90px;
+    height: 70px;
+    margin-right: 60px;
+    gap: 20px;
+}
+
+.logo2 img{
+    width: 65px;
+    height: 45px;
+    margin-left: 400px;
+  
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    gap: 40px;
+    gap: 60px;
+    padding: 24px;
+    
+}
+
+
+
+#metalgear{
+    margin-left: 28%;
+    
+}
+
+#Titulo{
+    color: white;
+    margin-left: 300px;
+    flex-direction: row;
+    margin-left: 43%;
+    margin-right: 16%;
+
+    
+}
+
+
+
+#intro{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+}
+
+.fundo{
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 80%;
+    margin-left: 10%;
+    
+ }
+    
+
+#imagemmetal{
+    width: 40%;
+    margin-left: 25%;
+    }
+ 
+#imagemray{
+    width: 40%;
+    margin-left: 25%;
+}
+
+#samvsjack{
+    width: 40%;
+    margin-left: 25%;
+}
+
+#jack{
+    width: 40%;
+    margin-left: 25%;
+}
+
+
+body{
+    background-image: url(metal_gear_rising_revengeance_game.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+
+
+   
+
+.cabeçalho{
+   background-color: rgba(0, 0, 0, 0.8);
+   color: white;
+   border-radius: 10px;
+   
+}
+
+#cima{
+    margin-left: 35%;
+    margin-right: 15%;
+}
+    
+
+
+
+
+
+fieldset{
+    background-color: rgba(255, 255, 255, 0.5);;
+    margin-bottom: 8px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 10%;  
+    border-radius: 30px;  
+    
+}
+
+
+#desenvolvedor{
+    margin-left: 35%;
+    margin-right: 15%;
+
+}
+
+#autor{
+    margin-left: 35%;
+    margin-right: 15%;
+}
+
+#matrícula{
+    margin-left: 40%;
+    margin-right: 20%;
+}
+
+
+
+footer{
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+#Footer{
+    color: white;
+    margin-left: 300px;
+    flex-direction: row;
+    margin-left: 40%;
+    margin-right: 15%;
+}
+
+
+
+
+
